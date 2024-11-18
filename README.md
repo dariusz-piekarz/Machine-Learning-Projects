@@ -4,5 +4,4 @@ All details of processing data and model selection can be found in the `.ipynb` 
 
 # 2. MNIST classification
 
-Well know Machine Learning data set is MNIST (available in Scikit-Learn). This time this is not a binary classification, but multiclass classification. 
-
+Well-known Machine Learning dataset is MNIST (available in Scikit-Learn). This time this is not a binary classification, but multiclass one.
